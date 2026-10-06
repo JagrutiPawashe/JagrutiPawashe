@@ -60,7 +60,7 @@ Currently, I’m expanding my expertise in **Generative AI, Agentic AI, LangChai
 
 # Featured AI Projects
 
-## 🎙️ GrillMaster — AI Mock Interview Evaluator
+## 🎙️ GrillMaster - AI Mock Interview Evaluator
 
 An AI-powered interview platform that simulates technical and HR interviews using a candidate's resume, job description, and selected skills.
 
@@ -79,7 +79,7 @@ An AI-powered interview platform that simulates technical and HR interviews usin
 
 ---
 
-## 📄 CV Guru — AI Resume Review Assistant
+## 📄 CV Guru - AI Resume Review Assistant
 
 An AI-assisted resume analysis system that evaluates resumes against structured quality parameters.
 
