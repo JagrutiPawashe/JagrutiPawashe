@@ -4,7 +4,7 @@
 
 I’m an **AI/ML professional with 4.5+ years of experience** working across Data Science, Machine Learning, NLP, and Generative AI.
 
-I enjoy building practical AI solutions that move beyond experimentation — from **RAG-based applications and LLM workflows to AI-powered evaluation systems and intelligent assistants**.
+I enjoy building practical AI solutions that move beyond experimentation - from **RAG-based applications and LLM workflows to AI-powered evaluation systems and intelligent assistants**.
 
 Currently, I’m expanding my expertise in **Generative AI, Agentic AI, LangChain, LangGraph, RAG architectures, and Quantum Computing**.
 
